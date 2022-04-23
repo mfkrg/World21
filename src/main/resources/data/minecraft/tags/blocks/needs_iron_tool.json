@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "world21:blood_ore",
+    "world21:cobalt_ore",
+    "world21:deepslate_cobalt_ore",
+    "world21:deepslate_blood_ore"
+  ]
+}

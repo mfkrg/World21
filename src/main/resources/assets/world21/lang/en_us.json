@@ -1,0 +1,15 @@
+{
+  "item.world21.blood_ingot": "Blood ingot",
+  "item.world21.cobalt_ingot": "Cobalt ingot",
+  "item.world21.mythril_ingot": "Mythril ingot",
+  "item.world21.raw_cobalt": "Raw cobalt",
+  "item.world21.raw_mythril": "Raw mythril",
+  "block.world21.mythril_ore": "Mythril ore",
+  "block.world21.blood_ore": "Blood ore",
+  "block.world21.cobalt_ore": "Cobalt ore",
+  "block.world21.deepslate_mythril_ore": "Deepslate mythril ore",
+  "block.world21.deepslate_blood_ore": "Deepslate blood ore",
+  "block.world21.deepslate_cobalt_ore": "Deepslate cobalt ore",
+  "itemGroup.world_21_mod_tab": "World 21",
+  "item.world21.dungeon_finder_item": "Dungeon finder"
+}

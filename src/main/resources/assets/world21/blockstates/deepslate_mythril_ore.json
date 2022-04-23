@@ -1,0 +1,8 @@
+{
+    "variants":
+    {
+    "": {
+            "model":"world21:block/deepslate_mythril_ore"
+        }
+    }
+}

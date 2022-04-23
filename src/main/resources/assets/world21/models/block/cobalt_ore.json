@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+    "all": "world21:block/cobalt_ore"
+    }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "group": "mythril_ingot",
+  "ingredient": {
+    "item": "world21:raw_mythril"
+  },
+  "result": "world21:mythril_ingot",
+  "experience": 1,
+  "cookingtime": 125
+}
