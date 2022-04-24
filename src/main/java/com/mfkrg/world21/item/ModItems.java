@@ -2,6 +2,7 @@ package com.mfkrg.world21.item;
 
 import com.mfkrg.world21.World21Mod;
 import com.mfkrg.world21.item.custom.DungeonFinderItem;
+import com.mfkrg.world21.item.custom.MythrilStaff;
 import net.minecraft.world.item.Item;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
@@ -33,6 +34,8 @@ public class ModItems {
 
     public static  final RegistryObject<Item> DUNGEON_FINDER_ITEM = ITEMS.register("dungeon_finder_item", () -> new DungeonFinderItem(new Item.Properties()
             .tab(ModCreativeModeTab.WORLD21_TAB).durability(32)));
+    public static  final RegistryObject<Item> MYTHRIL_STAFF = ITEMS.register("mythril_staff", () -> new MythrilStaff(new Item.Properties()
+            .tab(ModCreativeModeTab.WORLD21_TAB).durability(64)));
 
     public static void register(IEventBus eventBus){
         ITEMS.register(eventBus);
